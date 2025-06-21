@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bryko254
 - 👀 I’m interested in developing software
 - 🌱 I’m currently working with python3, Javascript
-- 💞️ I’m eager to contribure to interesting software projects
+- 💞️ I’m  contribure to interesting software projects
 - 📫 How to reach me on brykoech@gmail.com
 
 “The river carves stone not with force, but with patience — until one day, the rock breaks.”
